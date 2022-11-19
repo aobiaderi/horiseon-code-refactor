@@ -87,10 +87,11 @@ p {
 }
 
 /* dry out code */
+/* amended margin bottom */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 50px;
     color: #ffffff;
 }
 
@@ -149,6 +150,5 @@ p {
 }
 
 .footer h2 {
-    display: none;
     font-size: 20px;
 }
