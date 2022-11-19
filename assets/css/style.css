@@ -74,6 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
     margin-bottom: 50px;
+    padding: 0px
 }
 /* adjusted benefits width */
 .benefits {
