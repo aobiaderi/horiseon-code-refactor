@@ -149,11 +149,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-.aside {
-    width: 20%;
-    max-width: 150px;
-    min-width: 100px;
-    float:right;
-
-}
