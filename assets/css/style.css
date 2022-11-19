@@ -74,13 +74,13 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* adjusted benefits margin and padding */
+/* adjusted benefits width */
 .benefits {
-    margin-right: 30px;
-    padding: 25px;
+    margin-right: 20px;
+    padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 21%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
